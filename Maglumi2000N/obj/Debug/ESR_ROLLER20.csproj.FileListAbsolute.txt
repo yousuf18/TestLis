@@ -1,0 +1,48 @@
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\bin\Debug\Maglumi2000N.exe.config
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\bin\Debug\Maglumi2000N.exe.manifest
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\bin\Debug\Maglumi2000N.application
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\bin\Debug\Maglumi2000N.exe
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\bin\Debug\Maglumi2000N.pdb
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.dll
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.dll
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.xml
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.xml
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\obj\Debug\ESR_ROLLER20.csprojAssemblyReference.cache
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\obj\Debug\ESR_ROLLER20.csproj.CoreCompileInputs.cache
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\obj\Debug\Maglumi2000N.exe.manifest
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\obj\Debug\Maglumi2000N.application
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\obj\Debug\ESR_ROLLER20.csproj.CopyComplete
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\obj\Debug\Maglumi2000N.exe
+E:\ESR_ROLLER20--yousuf\ESRROLLER20\Maglumi2000N\obj\Debug\Maglumi2000N.pdb
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\bin\Debug\Maglumi2000N.exe.config
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\bin\Debug\Maglumi2000N.exe.manifest
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\bin\Debug\Maglumi2000N.application
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\bin\Debug\Maglumi2000N.exe
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\bin\Debug\Maglumi2000N.pdb
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.dll
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.dll
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.xml
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.xml
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\obj\Debug\ESR_ROLLER20.csprojAssemblyReference.cache
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\obj\Debug\ESR_ROLLER20.csproj.CoreCompileInputs.cache
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\obj\Debug\Maglumi2000N.exe.manifest
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\obj\Debug\Maglumi2000N.application
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\obj\Debug\ESR_ROLLER20.csproj.CopyComplete
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\obj\Debug\Maglumi2000N.exe
+E:\All_Lis_source_code\ESRROLLER20\Maglumi2000N\obj\Debug\Maglumi2000N.pdb
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\obj\Debug\ESR_ROLLER20.csproj.AssemblyReference.cache
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.dll
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.xml
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\obj\Debug\ESR_ROLLER20.csproj.CoreCompileInputs.cache
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\obj\Debug\ESR_ROLLER20.csproj.CopyComplete
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\bin\Debug\EsRoller20.exe.config
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\bin\Debug\EsRoller20.exe.manifest
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\bin\Debug\EsRoller20.application
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\bin\Debug\EsRoller20.exe
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\bin\Debug\EsRoller20.pdb
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\obj\Debug\EsRoller20.exe.manifest
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\obj\Debug\EsRoller20.application
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\obj\Debug\EsRoller20.exe
+D:\Downloads\All_Lis_source_code_6_24_21 (2)\All_Lis_source_code_6_24_21\ESRROLLER20\Maglumi2000N\obj\Debug\EsRoller20.pdb
